@@ -305,8 +305,14 @@ python src/train.py --data configs/data.yaml --model yolov5nu.pt \
 ### Precision-Recall Curve
 ![PR Curve](assets/BoxPR_curve.png)
 
-### Sample Detections
-![Validation Predictions](assets/sample_detection.jpg)
+### Live Field Detections
+Real-world performance captured during field testing using the USB microscope:
+
+| Detection 1 | Detection 2 |
+| :---: | :---: |
+| <img src="output/detection_20260220-173912.jpg" alt="Particle Detection 1" width="400"> | <img src="output/detection_20260220-174005.jpg" alt="Particle Detection 2" width="400"> |
+
+*Red bounding boxes indicate positively identified microplastic particles with confidence scores, mapped back to the edge device's real-time telemetry.*
 
 ---
 
