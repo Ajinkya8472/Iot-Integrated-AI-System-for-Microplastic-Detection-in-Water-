@@ -205,3 +205,37 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# =============================================================================
+# Project-Specific: Microplastic Detection
+# =============================================================================
+
+# Model weights (too large for Git — download separately)
+*.pt
+*.pth
+*.onnx
+*.tflite
+*.engine
+*.ncnn
+
+# YOLO training artifacts (keep only best results in results/)
+runs/
+detect/train*/
+!results/
+
+# Output directories
+output/
+captures/
+
+# Dataset images (too large for Git — use Git LFS or download link)
+dataset/images/train/*
+dataset/images/val/*
+dataset/images/test/*
+!dataset/images/train/.gitkeep
+!dataset/images/val/.gitkeep
+!dataset/images/test/.gitkeep
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini

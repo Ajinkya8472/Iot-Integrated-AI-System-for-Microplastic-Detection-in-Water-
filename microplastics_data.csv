@@ -1,0 +1,15 @@
+Date_Time,Location,Coordinates,Image_Name,Microplastic_Count,Temp_C,Turbidity_V,TDS_V
+2026-02-20 17:39:12,"Mumbai, Maharashtra","19.076, 72.8777",detection_20260220-173912.jpg,3,28.45,1.82,0.95
+2026-02-20 17:40:05,"Mumbai, Maharashtra","19.076, 72.8777",detection_20260220-174005.jpg,5,28.50,1.85,0.97
+2026-02-20 17:40:24,"Mumbai, Maharashtra","19.076, 72.8777",detection_20260220-174024.jpg,2,28.48,1.83,0.96
+2026-02-20 17:40:37,"Mumbai, Maharashtra","19.076, 72.8777",detection_20260220-174037.jpg,4,28.52,1.84,0.95
+2026-02-20 17:42:23,"Mumbai, Maharashtra","19.076, 72.8777",detection_20260220-174223.jpg,1,28.55,1.80,0.94
+2026-02-20 17:47:51,"Mumbai, Maharashtra","19.076, 72.8777",detection_20260220-174751.jpg,6,28.60,1.88,0.98
+2026-02-20 17:48:07,"Mumbai, Maharashtra","19.076, 72.8777",detection_20260220-174807.jpg,3,28.58,1.86,0.97
+2026-02-20 17:48:45,"Mumbai, Maharashtra","19.076, 72.8777",detection_20260220-174845.jpg,2,28.62,1.87,0.96
+2026-02-20 17:48:52,"Mumbai, Maharashtra","19.076, 72.8777",detection_20260220-174852.jpg,4,28.59,1.85,0.95
+2026-02-20 17:49:10,"Mumbai, Maharashtra","19.076, 72.8777",detection_20260220-174910.jpg,5,28.61,1.89,0.99
+2026-02-20 17:50:29,"Mumbai, Maharashtra","19.076, 72.8777",detection_20260220-175029.jpg,3,28.63,1.84,0.96
+2026-03-20 14:22:30,"Pimpri, Maharashtra","18.6298, 73.7997",scan_000100.jpg,2,27.80,1.75,0.88
+2026-03-20 14:25:15,"Pimpri, Maharashtra","18.6298, 73.7997",scan_000109.jpg,4,27.85,1.78,0.90
+2026-03-20 14:28:40,"Pimpri, Maharashtra","18.6298, 73.7997",scan_000118.jpg,1,27.82,1.76,0.89
